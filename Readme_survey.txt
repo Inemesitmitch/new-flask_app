@@ -60,4 +60,14 @@ Open 'visual_flask.ipynb' in 'Jupyter Notebook' to view:
 
 All charts are saved as '.png' files for PowerPoint use.
 
+## Deployment Disclaimer ##
+Note:
+The original requirements for this project specified deploying the Flask application on Amazon Web Services (AWS). It was initially deployed and tested the application on an AWS EC2 instance. However,  encountered recurring stability issues—specifically, the EC2 instance would frequently shut down or restart, causing service interruptions.
+
+To ensure a reliable, accessible, and seamless demonstration experience, I redeployed the application on Render, a cloud platform that provides free and stable hosting for web applications. This allowed me to meet all other project requirements while maintaining app accessibility.
+
+All functionalities, including Flask development, MongoDB integration, and data processing, remain fully aligned with the assignment goals.
+Run this URL to see the application deployed
+https://new-flask-app-mo3c.onrender.com
+
 
