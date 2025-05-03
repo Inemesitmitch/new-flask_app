@@ -32,7 +32,7 @@ project-folder/
 ├── process_data.py     - User class for processing
 ├── survey_data.csv     - Generated user data
 ├── visual_flask.ipynb  - Jupyter notebook with visualizations
-├── README.md           - Project instructions (this file)
+├── README.txt           - Project instructions (this file)
 └── requirements.txt    - Python dependencies
 
 
